@@ -1,2 +1,2 @@
-# GDPM
-## Google Docs Project Management Utilities
+# GDUMP
+## Google Docs Utitlities for Management of Projects
